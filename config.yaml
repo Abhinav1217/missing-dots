@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://missing-dots.in"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Missing Dots"
 pygmentsstyle: 'monokai'
 
 # Theme settings
@@ -9,9 +9,5 @@ paginate: 6
 social:
   twitter: "#"
   github: "#"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
 taxonomies:
   author: authors
