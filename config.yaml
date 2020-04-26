@@ -1,9 +1,8 @@
-baseURL: "https://missing-dots.in"
-languageCode: "en-us"
-title: "Missing Dots"
-pygmentsstyle: 'monokai'
-
-# Theme settings
+---
+baseURL: https://missing-dots.in
+languageCode: en-us
+title: Missing Dots
+pygmentsstyle: monokai
 theme: novela
 paginate: 6
 social:
