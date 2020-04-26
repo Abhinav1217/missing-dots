@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Sapna Rani Kulshreshtha"]
 date = 2020-04-25T18:30:00Z
 excerpt = "Sambalpuri sarees are traditional hand woven sarees from the state of Odisha. "
 hero = ""
