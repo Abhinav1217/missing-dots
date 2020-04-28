@@ -11,4 +11,4 @@ social:
 taxonomies:
   author: authors
 permalinks:
-  posts: '/:title'
+  posts: ":title"
