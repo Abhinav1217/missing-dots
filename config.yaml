@@ -10,3 +10,5 @@ social:
   github: "#"
 taxonomies:
   author: authors
+permalinks:
+  posts: '/:title'
