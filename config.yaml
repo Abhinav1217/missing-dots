@@ -3,7 +3,8 @@ baseURL: https://missing-dots.in
 languageCode: en-us
 title: Missing Dots
 pygmentsstyle: monokai
-theme: novela
+theme: hugo-notepadium
+style: "auto"
 paginate: 6
 social:
   twitter: "#"
@@ -12,3 +13,5 @@ taxonomies:
   author: authors
 permalinks:
   posts: ":title"
+showCategories: true       
+showTags: true            
