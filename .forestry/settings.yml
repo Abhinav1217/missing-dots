@@ -22,9 +22,14 @@ sections:
   path: content/authors
   label: Authors
   create: documents
-  match: "**/_index.md"
+  match: "**/*.md"
   templates:
   - author
+- type: directory
+  path: content/tags
+  label: Tags
+  create: documents
+  match: "**/_index.md"
 - type: directory
   path: config/_default
   label: Config
