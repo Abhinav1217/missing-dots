@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/Handlooms/kota-doria.md
 - content/post/Handlooms/sambalpuri-saree.md
