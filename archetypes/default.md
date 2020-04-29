@@ -1,12 +1,15 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+description = ""
+tags = ["x", "y"]
+categories = ["x", "y"]
 date: {{ .Date }}
-hero: /images/hero-3.jpg
 excerpt: "A default excerpt"
 timeToRead: 5
 authors:
   - Sapna Rani Kulshreshtha
 draft: true
 ---
+
 
 Some default content
