@@ -42,6 +42,10 @@ fields:
   label: Tags
   description: Select tags associated with your post.
   noLicense: true
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
 pages:
 - content/post/Handlooms/kota-doria.md
 - content/post/Handlooms/sambalpuri-saree.md
