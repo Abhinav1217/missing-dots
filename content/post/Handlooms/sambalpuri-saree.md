@@ -2,12 +2,12 @@
 authors = ["Sapna Rani Kulshreshtha"]
 date = 2020-04-25T18:30:00Z
 excerpt = "Sambalpuri sarees are traditional hand woven sarees from the state of Odisha. "
-hero = ""
 timeToRead = 2
 title = "Sambalpuri Saree"
 tags = ["Handlooms", "Culture", "History"]
 categories = ["Handlooms Of India"]
-
+series = ["Handlooms Of India"]
+url = "handlooms/samalpuri-saree"
 +++
 **Sambalpuri** sarees are traditional hand woven sarees from the state of Odisha. These  are made using _`Ikkat`_ or _`Bandhana`_ technique. These are a form of tie-dye, a technique where the yarn is dyed in a sequential manner to get the desired pattern while weaving.
 

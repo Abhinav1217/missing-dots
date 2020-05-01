@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Content
 - type: document
-  path: content/_index.md
+  path: content/post/_index.md
   label: Home
 - type: directory
   path: content/post
@@ -36,6 +36,17 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: yaml
+type: tag_list
+  name: tags
+  label: Tags
+  description: Select tags
+  default:
+  - History
+  - Culture
+  - Food
+  - Travel
+  - Handloom
+
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''

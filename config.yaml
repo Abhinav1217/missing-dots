@@ -15,7 +15,7 @@ taxonomies:
   tag: tags
   series: series
 permalinks:
-  posts: ":title"
+  post: ":sections/:title"
 showCategories: true       
 showTags: true      
 languageCode: "en"
@@ -60,21 +60,7 @@ params:
       title: "Categories"
       url: /categories/
       weight: 0
-copyright: "Copyright &copy; 2019 - Sapna Rani Kulshreshtha"
+copyright: "Copyright &copy; 2020 - Sapna Rani Kulshreshtha"
 canonifyurls: true
       
 noLicense: true # Do not show license in this post
-
-# uncomment to enable the Tags link on the main toolbar
-#  [[menu.main]]
-#    identifier = "tags"
-#    name = "Tags"
-#    url = "/tags"
-#    weight = 1
-
-# uncomment to enable the Categories link on the main toolbar
-#  [[menu.main]]
-#    identifier = "categories"
-#    name = "Categories"
-#    url = "/categories"
-#    weight = 1

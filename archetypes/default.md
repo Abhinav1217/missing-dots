@@ -1,8 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-description = ""
-tags = ["x", "y"]
-categories = ["x", "y"]
+description : ""
+tags : ["x", "y"]
+categories : ["x", "y"]
 date: {{ .Date }}
 excerpt: "A default excerpt"
 timeToRead: 5
