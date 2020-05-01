@@ -7,6 +7,16 @@ fields:
   config:
     required: false
   label: Title
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: Select tags associated with your post.
+  noLicense: true
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
 - name: excerpt
   type: text
   config:
@@ -36,12 +46,6 @@ fields:
   type: tag_list
   default: []
   label: Authors
-- name: tags
-  type: tag_list
-  default: []
-  label: Tags
-  description: Select tags associated with your post.
-  noLicense: true 
 pages:
 - content/post/Handlooms/kota-doria.md
 - content/post/Handlooms/sambalpuri-saree.md
