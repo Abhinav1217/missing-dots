@@ -41,7 +41,7 @@ fields:
   default: []
   label: Tags
   description: Select tags associated with your post.
-  noLicense: true 
+  noLicense: true
 pages:
 - content/post/Handlooms/kota-doria.md
 - content/post/Handlooms/sambalpuri-saree.md
