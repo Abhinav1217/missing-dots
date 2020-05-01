@@ -11,6 +11,9 @@ social:
   github: "#"
 taxonomies:
   author: authors
+  category: categories
+  tag: tags
+  series: series
 permalinks:
   posts: ":title"
 showCategories: true       
