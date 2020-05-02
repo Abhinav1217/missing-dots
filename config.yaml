@@ -21,9 +21,7 @@ showTags: true
 languageCode: "en"
 DefaultContentLanguage: "en"
 enableInlineShortcodes: true
-footnoteReturnLinkContents: "^"   
-author:
-  name: "Sapna Rani Kulshreshtha"   
+footnoteReturnLinkContents: "^"    
 params:
   author: "Sapna Rani Kulshreshtha"
   pseudo: "Sapna Rani"
