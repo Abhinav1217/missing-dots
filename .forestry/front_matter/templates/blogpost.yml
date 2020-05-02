@@ -87,3 +87,5 @@ fields:
   name: url
   label: URL
   description: Custom URL of this post
+pages:
+- content/post/Handlooms/baluchari-saree.md
