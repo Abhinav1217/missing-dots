@@ -1,13 +1,14 @@
 +++
 authors = ["Sapna Rani Kulshreshtha"]
+categories = []
 date = 2020-04-25T18:30:00Z
 excerpt = "Sambalpuri sarees are traditional hand woven sarees from the state of Odisha. "
+series = ["Handloom of India"]
+tags = ["Handlooms", "Culture", "History"]
 timeToRead = 2
 title = "Sambalpuri Saree"
-tags = ["Handlooms", "Culture", "History"]
-categories = ["Handlooms Of India"]
-series = ["Handlooms Of India"]
 url = "handlooms/samalpuri-saree"
+
 +++
 **Sambalpuri** sarees are traditional hand woven sarees from the state of Odisha. These  are made using _`Ikkat`_ or _`Bandhana`_ technique. These are a form of tie-dye, a technique where the yarn is dyed in a sequential manner to get the desired pattern while weaving.
 
@@ -21,4 +22,4 @@ Sambalpuri sarees are made in cotton and silk. They are known for incorporating 
 
 It is believed that this art migrated to Odisha with the Bhulia community, who fled from north India at around 12th century, after the fall of Chauhan dynasty. These sarees are also called Bhulia Kapta by the local peoples of western odisha. 
 
-Sambalpuri textile is popular for its beautiful patterns and bright colours. Apart from sarees, this material is widely used for dress material, furnishing and other useful products. Sambalpuri sarees were made popular by late Prime Minister Indira Gandhi, who often preferred wearing it. 
+Sambalpuri textile is popular for its beautiful patterns and bright colours. Apart from sarees, this material is widely used for dress material, furnishing and other useful products. Sambalpuri sarees were made popular by late Prime Minister Indira Gandhi, who often preferred wearing it.
