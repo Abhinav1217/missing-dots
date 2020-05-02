@@ -12,7 +12,7 @@ url = "handlooms/baluchuri-saree"
 +++
 The textile tradition of Bengal is very ancient. It is known for it's finest fabric produced in either pure cotton or pure silk, but not in mixed yarn.
 
-A traditional baluchari saree is hand-woven with chosen yarn (originally silk, now cotton is also accepted, but not mixed), using motifs and designs depicting scenes from bengali mythology. They are manufactured in Bishnupur, a village in West Bengal.
+A traditional baluchari saree is hand-woven with chosen yarn (originally silk, now cotton is also accepted, but not mixed), using motifs and designs depicting scenes from mythology. They are manufactured in Bishnupur, a village in West Bengal.
 
 > The saree got it's name, _Baluchari_, because the weavers originally came from a village called _Baluchar_, near Murshidabad.
 
@@ -22,7 +22,7 @@ Bishnupur, a small village in Bengal today, had been the capital of the great Ma
 
 The Malla kings were great patrons of art and culture which is reflected in its rich architecture and handicrafts. The terracotta temples built in the 17th-18th cent. are a world heritage. These temple became the inspiration for the motifs which dominates a traditional baluchari saree.
 
-Baluchari sarees are made using tussar silk and dyed in natural colours. These sarees were originally built using traditional _`Jala Loom`_. During the revival of baluchari weaving in the 20th century, jala was replaced by the _`Jacquard Technique`_ of weaving The beautiful motifs that dominate the sarees, depicting stories from epics tales, were inspired from the terracotta temples. Though all Baluchari sarees have similar designs , they can be categorized on the basis of the thread used in motifs.
+Baluchari sarees are made using tussar silk and dyed in natural colours. These sarees were originally built using traditional _`Jala Loom`_. During the revival of baluchari weaving in the 20th century, jala was replaced by the _`Jacquard Technique`_ of weaving The beautiful motifs that dominate the sarees, depicting epics tales, were inspired from the terracotta temples. Though all Baluchari sarees have similar designs , they can be categorized on the basis of the thread used in motifs.
 
 There are three main variation :
 
