@@ -1,0 +1,31 @@
+---
+label: Blogpost
+hide_body: false
+fields:
+- type: list
+  name: authors
+  label: authors
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: excerpt
+  label: excerpt
+- type: number
+  name: timeToRead
+  label: timeToRead
+- type: text
+  name: title
+  label: title
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: series
+  label: series
+- type: text
+  name: url
+  label: url
