@@ -2,30 +2,88 @@
 label: Blogpost
 hide_body: false
 fields:
-- type: list
-  name: authors
-  label: authors
-- type: datetime
-  name: date
-  label: date
-- type: text
-  name: excerpt
-  label: excerpt
-- type: number
-  name: timeToRead
-  label: timeToRead
 - type: text
   name: title
-  label: title
+  label: Title
+  description: Title of blogpost
+  config:
+    required: true
 - type: list
   name: tags
-  label: tags
+  label: Tags
+  description: Tags Associated with this post
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - History
+    - Fashion
+    - Culture
+    - Food
+    - Travel
+    - Folklore
+    - Handloom
+    - Handicraft
+    - Random-thoughts
+    min: 1
+    max: 3
 - type: list
   name: categories
-  label: categories
+  label: Categories
+  description: Name of the series this post belong to.
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Handloom of India
+    - Story of a Coin
+    min: 0
+    max: 1
 - type: list
   name: series
   label: series
+  hidden: true
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: post
+    min: 0
+    max: 1
+- type: number
+  name: timeToRead
+  label: Time to read
+  description: Approximate time it will take to read this post
+  default: 2
+- type: list
+  name: authors
+  description: Author of this post
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Sapna Rani Kulshreshtha
+    - Abhinav Kulshreshtha
+    min: 1
+    max: 1
+  label: Authors
+- type: datetime
+  name: date
+  label: Date
+  description: Date of publication
+  config:
+    date_format: DD-MM-YYYY
+    export_format: YYYY/MM/DD h:mm A ZZ
+  default: now
+  hidden: true
+- type: text
+  name: excerpt
+  label: Excerpt
+  description: One Line intro for this post.
 - type: text
   name: url
-  label: url
+  label: URL
+  description: Custom URL of this post
