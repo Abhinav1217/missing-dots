@@ -1,5 +1,15 @@
 [categories]
+# other = "Series:"
 other = "Categories:"
+
+[series]
+other = "Series:"
+
+[tags]
+other = "Tags: "
+
+[author]
+other = "Written by - "
 
 [readingTime]
 one = "One minute read"
