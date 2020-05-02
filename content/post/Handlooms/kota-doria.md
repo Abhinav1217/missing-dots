@@ -2,8 +2,9 @@
 authors = ["Sapna Rani Kulshreshtha"]
 date = 2020-04-28T18:30:00Z
 excerpt = "Kota-Doria, simply known as Kota Sarees, are very fine handloom sarees that are woven with cotton or silk threads."
+categories = ["Handlooms of India"]
+series = ["Handlooms of India"]
 tags = ["Handlooms", "Culture", "History"]
-categories = ["Handlooms Of India"]
 timeToRead = 4
 title = "Kota Doria"
 url = "handlooms/kota-doria"

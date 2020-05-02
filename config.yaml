@@ -54,6 +54,11 @@ params:
     title: Categories
     url: "/categories/"
     weight: 0
+  - identifier: series
+    name: Series
+    title: Series
+    url: "/series/"
+    weight: 0
 copyright: Copyright &copy; 2020 - Sapna Rani Kulshreshtha
 canonifyurls: true
 noLicense: true

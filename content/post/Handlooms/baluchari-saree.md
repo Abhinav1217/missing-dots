@@ -1,10 +1,10 @@
 +++
 authors = ["Sapna Rani Kulshreshtha"]
-categories = ["Handloom of India"]
 date = 2020-05-02T07:00:00Z
 excerpt = "An ancient handloom from bengal."
-series = []
-tags = ["Handloom", "History"]
+categories = ["Handlooms of India"]
+series = ["Handlooms of India"]
+tags = ["Handlooms", "Culture", "History"]
 timeToRead = 4
 title = "Baluchari Saree"
 url = "handlooms/baluchuri-saree"

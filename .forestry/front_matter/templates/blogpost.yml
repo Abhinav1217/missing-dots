@@ -37,7 +37,7 @@ fields:
     source:
       type: simple
     options:
-    - Handloom of India
+    - Handlooms of India
     - Story of a Coin
     min: 0
     max: 1
@@ -50,6 +50,9 @@ fields:
     source:
       type: pages
       section: post
+    options:
+      - Handlooms of India
+      - Story of a Coin
     min: 0
     max: 1
 - type: number

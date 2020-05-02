@@ -1,9 +1,9 @@
 +++
 authors = ["Sapna Rani Kulshreshtha"]
-categories = []
 date = 2020-04-25T18:30:00Z
 excerpt = "Sambalpuri sarees are traditional hand woven sarees from the state of Odisha. "
-series = ["Handloom of India"]
+categories = ["Handlooms of India"]
+series = ["Handlooms of India"]
 tags = ["Handlooms", "Culture", "History"]
 timeToRead = 2
 title = "Sambalpuri Saree"

@@ -1,10 +1,10 @@
 +++
 authors = ["Sapna Rani Kulshreshtha"]
-categories = ["Handloom of India"]
 date = 2020-05-02T09:00:00Z
 excerpt = "A traditional cotton saree from bengal looms known as `Tant`"
-series = []
-tags = ["Handloom", "Culture", "History"]
+categories = ["Handlooms of India"]
+series = ["Handlooms of India"]
+tags = ["Handlooms", "Culture", "History"]
 timeToRead = 2
 title = "Tant Saree"
 url = "/handlooms/tant-saree"
