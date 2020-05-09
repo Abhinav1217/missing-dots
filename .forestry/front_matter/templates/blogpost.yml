@@ -54,6 +54,7 @@ fields:
     options:
     - Handlooms of India
     - Story of a Coin
+    - Needle & Thread
     min: 0
     max: 1
 - type: number

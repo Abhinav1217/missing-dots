@@ -2,6 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 description : ""
 tags : ["x", "y"]
+series : ["x", "y"]
 categories : ["x", "y"]
 date: {{ .Date }}
 excerpt: "A default excerpt"
@@ -10,6 +11,4 @@ authors:
   - Sapna Rani Kulshreshtha
 draft: true
 ---
-
-
-Some default content
+A Historical Tale.
