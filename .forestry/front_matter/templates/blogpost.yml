@@ -91,6 +91,7 @@ fields:
   label: URL
   description: Custom URL of this post
 pages:
+- content/post/Embroideries/kashidakari.md
 - content/post/Handlooms/baluchari-saree.md
 - content/post/Handlooms/chanderi-saree.md
 - content/post/Handlooms/maheshwari-saree.md
