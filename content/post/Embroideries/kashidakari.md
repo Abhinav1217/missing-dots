@@ -16,7 +16,9 @@ The _Kashida motifs_ are distinctive styles of embroidery in India. These motifs
 
 > If you own any Kashmiri dress, or shawl, It probably is Kashidakari handiwork.
 
-![Satin-Stitch-Example](/images/Satin-Stitch.png "Satin-Stitch-Example")![Chain-Stitch-Example](/images/Chain-Stitch.png "Chain-Stitch-Example")
+![Satin-Stitch-Example](/images/Satin-Stitch.png "Satin-Stitch-Example")Satin-Stitch-Example
+
+![Chain-Stitch-Example](/images/Chain-Stitch.png "Chain-Stitch-Example")**Chain-Stitch-Example**
 
 Satin and chain stitches were most commonly used in Kashidakari. Single stitch style is considered to be the signature style in Kashida.  Few other styles under its wings are:
 
@@ -26,8 +28,8 @@ Satin and chain stitches were most commonly used in Kashidakari. Single stitch s
 
 The dense embroidery covering the whole body of the garment is called _Jaamavar_. It is popular on shawls and wedding dresses. _Kashmir-Jaal_ is used to decorate necklines and sleeves of _Phirans,_ which is name given to kashmiri kurties. Jaal, uses an abundance of vines or creepers in its overall design.
 
-Natural fabrics are preferred in Kashidakari, although these days, other materials are also used. The embroidery can be used for both men and women. Besides garments, it is also used for utility items like bed covers, blankets bags wall hangings and carpets. 
+Natural fabrics are preferred in Kashidakari, although these days, other materials are also used. The embroidery can be used for both men and women. Besides garments, it is also used for utility items like bed covers, blankets bags wall hangings and carpets.
 
-This traditional form of art is taken up by the younger men of Kashmir as a hereditary ownership from their ancestors. Simple shawls were given to them as a platform to showcase their natural talent. Slowly and gradually with the passing years, They learn different form of variations that suited the changing generation. 
+This traditional form of art is taken up by the younger men of Kashmir as a hereditary ownership from their ancestors. Simple shawls were given to them as a platform to showcase their natural talent. Slowly and gradually with the passing years, They learn different form of variations that suited the changing generation.
 
 Essence of Persian and Kashmiri embroidery are blended together to beautify the fabric, Kashmiri dress can go with every season of the year without compromising on comfort and convenience giving it an international appeal.
