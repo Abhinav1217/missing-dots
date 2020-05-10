@@ -39,18 +39,18 @@ For more information, see [official Hugo documentation](https://gohugo.io/gettin
 Slight modification has been done to add `Series` feature.
 
 ## TODO
-[x] Deploy site.
-[x] Configure stuff to make things really simple.
-[x] Add RSS subscription.
-[] Cleanup config files for unused stuff left from trying out other themes.
-[] Add google analytics.
-[] Add google ad-sense.
-[] Add site-wide search.
-[] Add discus comment.
-[] Add newsletter.
-[] Theme switcher and dark mode.
-[] Improve images rendered in blog-post.
-[] Improve overall layout of site.
+- [x] Deploy site.  
+- [x] Configure stuff to make things really simple.  
+- [x] Add RSS subscription.  
+- [ ] Cleanup config files for unused stuff left from trying out other themes.  
+- [ ] Add google analytics.  
+- [ ] Add google ad-sense.  
+- [ ] Add site-wide search.  
+- [ ] Add discus comment.  
+- [ ] Add newsletter.  
+- [ ] Theme switcher and dark mode.  
+- [ ] Improve images rendered in blog-post.  
+- [ ] Improve overall layout of site.  
 
 
 ## LICENSE
