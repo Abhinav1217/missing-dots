@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/30432a28-f73f-431d-94b8-3c19ee4b7761/deploy-status)](https://app.netlify.com/sites/practical-feynman-973618/deploys)
 # Missing-Dots.in
-A blog for my mother. She plans to write about historical stuff. The domain name she chose is a play. The concept is that she is going to write from a lesser known perspective. Hence url is read as `missing dots in _history/handloom/culture_`.
+A blog for my mother. She plans to write about historical stuff. The domain name she chose is a play. The concept is that she is going to write from a lesser known perspective. Hence url is read as missing dots in _history/handloom/culture_.
 
 ## Prerequisites
 
