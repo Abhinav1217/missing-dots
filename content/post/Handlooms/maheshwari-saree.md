@@ -1,9 +1,9 @@
 +++
 authors = ["Sapna Rani Kulshreshtha"]
-categories = ["Handlooms of India"]
 date = 2020-05-02T12:01:00Z
-excerpt = ""
-series = []
+excerpt = "A traders hub in Madhya Pradesh"
+categories = ["Handlooms of India"]
+series = ["Handlooms of India"]
 tags = ["Handloom", "Culture", "History"]
 timeToRead = 4
 title = " Maheshwari  Saree"

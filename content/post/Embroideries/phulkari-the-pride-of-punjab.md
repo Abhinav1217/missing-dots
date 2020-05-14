@@ -1,13 +1,13 @@
 +++
 authors = ["Sapna Rani Kulshreshtha"]
-categories = ["Needle & Thread"]
 date = 2020-05-10T04:22:00Z
-excerpt = ""
-series = []
+excerpt = "Rituals marking the turning points of a panjabi women"
+categories = ["Needle & Thread"]
+series = ["Needle & Thread"]
 tags = ["Handicraft", "Culture", "Fashion"]
 timeToRead = 5
 title = "Phulkari: The pride of Punjab"
-url = ""
+url = "/embroideries/plulkari"
 
 +++
 Phulkari is the traditional embroidery of Punjab. Phulkari literally translated as _Floral_ work, the designs include not only flowers but also cover geometrical shapes and other motifs. It was mainly used to make “_odhanis_.” For the people of Punjab, Phulkari is not just an embroidery, It is a tradition, a pious ceremony that begins with the birth of a child. Phulkari is made in both Indian and Pakistani region of Punjab although they are distinctly dissimilar to each other.

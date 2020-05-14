@@ -4,10 +4,10 @@ date = 2020-04-28T18:30:00Z
 excerpt = "Kota-Doria, simply known as Kota Sarees, are very fine handloom sarees that are woven with cotton or silk threads."
 categories = ["Handlooms of India"]
 series = ["Handlooms of India"]
-tags = ["Handlooms", "Culture", "History"]
+tags = ["Handloom", "Culture", "History"]
 timeToRead = 4
 title = "Kota Doria"
-url = "handlooms/kota-doria"
+url = "/handlooms/kota-doria"
 
 +++
 Kota-Doria, simply known as Kota Sarees, are very fine handloom that is woven with cotton and silk threads. The fabric is woven in a manner that the final material is light-weight and translucent, which makes it ideal for the warm and dry climate of Rajasthan. The weaving technique creates a one of a kind square pattern, known as “Khat”. A Marwari lady’s wardrobe is incomplete without kota doria.

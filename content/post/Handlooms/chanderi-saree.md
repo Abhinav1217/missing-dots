@@ -1,9 +1,9 @@
 +++
 authors = ["Sapna Rani Kulshreshtha"]
-categories = ["Handlooms of India"]
 date = 2020-05-02T13:59:00Z
 excerpt = "A rich textile with even richer history from Madhya Pradesh."
-series = []
+categories = ["Handlooms of India"]
+series = ["Handlooms of India"]
 tags = ["Handloom", "Culture", "History"]
 timeToRead = 5
 title = "Chanderi Saree"
