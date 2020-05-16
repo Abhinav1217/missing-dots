@@ -3,12 +3,10 @@ baseURL: https://missing-dots.in/
 languageCode: en
 title: Missing Dots
 pygmentsstyle: monokai
+googleAnalytics: G-WGQT0BXKEE
 theme: hugo-kiera
 style: auto
 paginate: 6
-social:
-  twitter: "#"
-  github: "#"
 taxonomies:
   author: authors
   category: categories

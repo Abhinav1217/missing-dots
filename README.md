@@ -42,8 +42,8 @@ Slight modification has been done to add `Series` feature.
 - [x] Deploy site.  
 - [x] Configure stuff to make things really simple.  
 - [x] Add RSS subscription.  
-- [ ] Cleanup config files for unused stuff left from trying out other themes.  
-- [ ] Add google analytics.  
+- [x] Cleanup config files for unused stuff left from trying out other themes.  
+- [x] Add google analytics.  
 - [ ] Add google ad-sense.  
 - [ ] Add site-wide search.  
 - [ ] Add discus comment.  
