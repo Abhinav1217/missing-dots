@@ -3,7 +3,7 @@ baseURL: https://missing-dots.in/
 languageCode: en
 title: Missing Dots
 pygmentsstyle: monokai
-googleAnalytics: G-WGQT0BXKEE
+googleAnalytics: UA-149069023-1
 theme: hugo-kiera
 style: auto
 paginate: 6
