@@ -1,2 +1,8 @@
+*, *::before, *::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 @import url(./styles-light.css);
 @import url(./styles-dark.css) (prefers-color-scheme: dark);

@@ -1,11 +1,19 @@
-  {{ with .Site.Params.favicon}}
-    <link rel="shortcut icon" href="{{ . }}" />
-  {{ end }}
+{{ with .Site.Params.favicon}}
+<link rel="shortcut icon" href="{{ . }}" />
+{{ end }}
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+
+<!-- https://stackoverflow.com/questions/40624515/load-google-font-with-link-asynchronously-or-deferred-without-font-face-observ -->
+<!-- https://paulund.co.uk/load-google-fonts-async -->
+<link rel="preload" as="styles" href='{{ "fontawesome/css/all.min.css" | absURL }}'
+  onload="this.onload=null;this.rel='stylesheet'" />
+<link rel="preload" as="styles" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda"
+  onload="this.onload=null;this.rel='stylesheet'" />
+<noscript>
   <link rel="stylesheet" href="{{ "fontawesome/css/all.min.css" | absURL }}" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
-  <link rel="stylesheet" type="text/css" href="{{ "css/styles.css" | relURL}}" />
-  {{- range .Site.Params.customCSS -}}
-    <link rel='stylesheet' href='{{ . | absURL }}'>
-  {{- end -}}
+</noscript>
+<link rel="stylesheet" type="text/css" href="{{ "css/styles.css" | relURL}}" />
+{{- range .Site.Params.customCSS -}}
+<link rel='stylesheet' href='{{ . | absURL }}'>
+{{- end -}}
