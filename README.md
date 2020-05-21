@@ -43,7 +43,9 @@ Slight modification has been done to add `Series` feature.
 - [x] Configure stuff to make things really simple.  
 - [x] Add RSS subscription.  
 - [x] Cleanup config files for unused stuff left from trying out other themes.  
-- [x] Add google analytics.  
+- [x] Add google analytics. 
+- [x] Google SEO
+- [X] Bing SEO 
 - [ ] Add google ad-sense.  
 - [ ] Add site-wide search.  
 - [ ] Add discus comment.  
@@ -54,4 +56,9 @@ Slight modification has been done to add `Series` feature.
 
 
 ## LICENSE
-MIT
+Theme is under MIT.  
+Content is Creative Common, except for sourced images which should have their own attribution, or specified.  
+favicon is under creative commons sourced from https://www.iconfinder.com/search/?q=parchment&price=free&style=flat. Only modification done is conversion using https://favicon.io/favicon-converter/  
+
+Repo is maintained on github under Creative Common.  
+Deployed on Netlify, CMS from forestry.io.  
