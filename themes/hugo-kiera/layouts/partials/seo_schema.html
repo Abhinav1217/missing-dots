@@ -1,0 +1,26 @@
+<script type="application/ld+json">
+    {
+        "@context" : "http://schema.org",
+        "@type" : "BlogPosting",
+        "mainEntityOfPage": {
+             "@type": "WebPage",
+             "@id": "{{ .Site.BaseURL }}"
+        },
+        "articleSection" : "{{ .Section | default "Missing-Dots HomePage"}}",
+        "name" : "{{ .Title }}",
+        "headline" : "{{ .Title }}",
+        "description" : "{{.Site.Params.tagline}}",
+        "inLanguage" : "en-US",
+        "author" : "{{ .Site.Params.Author }}",
+        "creator" : "{{ .Site.Params.Author }}",
+        "publisher": "{{ .Site.Params.Author }}",
+        "copyrightYear" : "{{ "2020" }}",
+        "datePublished": "{{ .Date }}",
+        "url" : "{{ .Permalink }}",
+        "wordCount" : "{{ .WordCount }}",
+        "keywords" : ["Missing Dots", "Missing-Dots", "{{.Title}}",
+          {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}
+          {{ if isset .Params "categories" }}{{ range .Params.categories }}"{{ . }}",{{ end }}{{ end }}
+          ]
+    }
+    </script>

@@ -1,7 +1,8 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta name="description" content="{{ .Site.Params.tagline | default "The HTML5 Herald" }}" />
-<meta name="author" content="{{ .Site.Params.Author | default .Site.Author.name }}" />
+<meta name="description" content="{{ .Site.Params.tagline }}" />
+<meta name="author" content="{{ .Site.Params.Author }}" />
+<meta name="google-site-verification" content="hPM5dJAEOUDIuVOO_14sV6V8LaZ6_dz8auJgy1CIXyc" />
 {{- with .OutputFormats.Get "rss" -}}
 {{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.Suffix .Permalink $.Site.Title | safeHTML }}
 {{- end -}}
