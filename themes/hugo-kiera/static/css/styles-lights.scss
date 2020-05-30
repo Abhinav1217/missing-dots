@@ -1,20 +1,14 @@
-*, *::before, *::after{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
   font-family: "Roboto Slab", serif;
-  color: #333333;
+
   background:
   url(images/flowers.png),
-linear-gradient(to left top, #ff9671, #ffa16b, #ffad65/*, #ffba61, #ffc75f*/);
+  linear-gradient(to left top, #ff9671, #ffa16b, #ffad65/*, #ffba61, #ffc75f*/);
+  color: #333333;
   background-blend-mode: screen;
-
 }
 
 h1,

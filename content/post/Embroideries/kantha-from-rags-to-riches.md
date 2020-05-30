@@ -7,7 +7,7 @@ series = []
 tags = ["Handicraft", "Culture", "Fashion"]
 timeToRead = 3
 title = "Kantha: From rags to riches"
-url = "/embroideries/kantha"
+url = "/embroideries/kantha-from-rags-to-riches"
 
 +++
 

@@ -7,7 +7,7 @@ series = []
 tags = ["Handicraft", "Fashion", "History"]
 timeToRead = 5
 title = "Zardozi: The imperial craft"
-url = "/embroideries/zardozi"
+url = "/embroideries/zardozi-the-imperial-craft"
 
 +++
 The word _Zardozi_ is derived from Persian word ‘_Zarin_’(Gold) and ‘_Dozi_’ (sewing) that translates as sewing with Gold. Zardozi is a form of fabric decoration which uses metallic threads to create beautiful motifs. It is a popular embroidery style in India, Iran and Central Asian countries.

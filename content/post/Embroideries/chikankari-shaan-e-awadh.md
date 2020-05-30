@@ -7,7 +7,7 @@ series = []
 tags = ["Fashion", "Handicraft", "History"]
 timeToRead = 5
 title = "Chikankari: Shaan-e-Awadh"
-url = "/embroideries/chickankari"
+url = "/embroideries/chickankari-shan-e-awadh"
 
 +++
 Chikankari is the traditional hand embroidery from Lucknow. It is a symbol of Awadh's rich heritage and culture.Like most of the embroideries of India, chikankari also traces its origin in Persia and came to India in the 15th-16th century. _Chikan_ means fine and delicate patterns and chikankari is indeed the finest textile decoration style.

@@ -6,7 +6,7 @@ pygmentsstyle: monokai
 googleAnalytics: UA-149069023-1
 theme: hugo-kiera
 style: auto
-paginate: 6
+paginate: 10
 taxonomies:
   author: authors
   category: categories

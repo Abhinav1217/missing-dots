@@ -7,7 +7,7 @@ categories = ["Needle & Thread"]
 tags = ["Handicraft", "Culture", "Fashion"]
 timeToRead = 2
 title = "Kashidakari: Beauty of Kashmir"
-url = "/embroideries/kashidakari"
+url = "/embroideries/kashidakari-beauty-of-kashmir"
 
 +++
 _Kashmiri_ stitch, popularly known as _Kashidakari_, is practised mostly by the menfolks of Kashmir. It is said to have evolved during the Mughal era, in the region of modern day Srinagar.
@@ -16,7 +16,7 @@ The _Kashida motifs_ are distinctive styles of embroidery in India. These motifs
 
 > If you own any Kashmiri dress, or shawl, It probably is Kashidakari handiwork.
 
-![Satin-Stitch-Example](/images/Satin-Stitch.png "Satin-Stitch-Example")Satin-Stitch-Example
+![Satin-Stitch-Example](/images/Satin-Stitch.png "Satin-Stitch-Example")**Satin-Stitch-Example**
 
 ![Chain-Stitch-Example](/images/Chain-Stitch.png "Chain-Stitch-Example")**Chain-Stitch-Example**
 
