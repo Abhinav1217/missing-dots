@@ -23,7 +23,7 @@ Though the basic style remains the same within the Banjara tribes, little variat
 
 The Banni embroidery practised by the Lohana tribe of Gujarat uses silk floss, the designs inspired by the Phulkari of Punjab.
 
-::::Rajisthan::::
+**::::Rajisthan::::**
 
 The Banjaras living in the Malwa and Nimar region of Madhya Pradesh create designs according to the weave of the cloth and the textured effect is achieved by varying colors and stitches on geometric patterns and the motifs highlighted by cross stitch.
 
