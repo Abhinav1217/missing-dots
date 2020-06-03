@@ -7,19 +7,19 @@ excerpt = ""
 series = []
 tags = ["Handicraft", "Culture", "Fashion"]
 timeToRead = 2
-title = "Banjara embroidery;  The timeless craft"
-url = ""
+title = "Banjara: The craft of the wanderer"
+url = "/embroideries/banjara-craft-of-wanderer"
 
 +++
-The **Banjaras** are semi-Nomadic tribes, mostly found in the states of Rajasthan, Gujarat, Madhya Pradesh, Andhra and Telangana. They were an important part of the economy in the medieval period. As professional transporters, the Banjaras travelled in bullock or camel driven carts carrying essential items as salt, grains or anything that they could trade. They were hired by traders to carry their goods to far off places. Their caravans would halt on the outskirts of the town where they stayed for a fortnight or more, to trade with the local people. The Banjaras, were welcomed, not only for the things they brought but also for their wisdom they acquired from their travels. They were fortune tellers and also gave ayurvedic solutions and entertained people with music, dance and stories of their Journey.
+The **Banjaras** are semi-Nomadic tribes, mostly found in the states of Rajasthan, Gujarat, Madhya Pradesh, Andhra and Telangana. They were an important part of the economy in the medieval period. As professional transporters, the Banjaras travelled in bullock or camel driven carts carrying essential items as salt, grains or anything that they could trade. They were hired by traders to carry their goods to far off places. Their caravans would halt on the outskirts of the town where they stayed for a fortnight or more, to trade with the local people. The Banjaras, were welcomed, not only for the trade they brought but also for the wisdom and stories they acquired from their travels. They were fortune tellers, gave ayurvedic solution, they entertained people with music, dance and stories of their Journey. Indian culture which is so diverse, yet so similar and unified, All thanks to travelling banjara and their stories.
 
 The Banjaras are recognised by their colourful dress and ornaments. The women wear Ghagra(skirt), Kancholi( a backless top) and odhani embroidered heavily with colourful threads, mirrors and cowries. The embroidery reflects the vibrant lifestyle of the Banjaras. The mirrors and cowries are an important part of the embroidery and considered auspicious.
 
 After independence, most nomadic tribes have settled down in villages as farm Labourers and daily wage earners. The women are keeping their traditional skills alive. They are using their trademark embroidery commercially to create fashionable items.
 
-The embroidery involves variations of chain, running and herringbone stitches with applique work, mirrors, shells and beads. Patterns in geometric shapes using bright coloured threads and embellishments are making fashion statements. The embroidery is being used to create beautiful dresses, bags, bedcovers and other decorative items.
+The embroidery involves variations of chain, running and herringbone stitches with applique work, mirrors, shells and beads. Patterns in geometric shapes using bright coloured threads and embellishments are making fashion statements. The embroidery is being used to create beautiful dresses, bags, bedcovers and other decorative items.  
 
-Though the basic embroidery style remains the same within the Banjara tribes, little variations can be seen due to the regional influence. 
+Though the basic style remains the same within the Banjara tribes, little variations can be seen due to the regional influence. There are many tribal craft in every region of India. Here we will talk about a few that are recognised by their unique embroidery 
 
 The Banni embroidery practised by the Lohana tribe of Gujarat uses silk floss, the designs inspired by the Phulkari of Punjab.
 
