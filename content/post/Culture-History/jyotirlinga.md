@@ -16,29 +16,31 @@ According to the Hindu calendar, this is the beginning of the holy month of shra
 
 **Adi Guru Shankaracharya** who revived Hinduism in 800CE, has mentioned these Jyotirlingas in his **Dwadasha jyotirlinga** **stotram**. The stotram describes the name and location of each shrine. It is believed that a sincere devotee who recites this stotram regularly washes all his sins committed in seven previous births.
 
-> सौराष्ट्रे सोमनाधञ्च श्रीशैले मल्लिकार्जुनम् |
+> सौराष्ट्रे सोमनाधञ्च श्रीशैले मल्लिकार्जुनम् |  
 >
-> उज्जयिन्यां महाकालं ओङ्कारेत्वमामलेश्वरम् ‖
+> उज्जयिन्यां महाकालं ओङ्कारेत्वमामलेश्वरम् ‖  
 >
-> पर्ल्यां वैद्यनाधञ्च ढाकिन्यां भीम शङ्करम् |
+> पर्ल्यां वैद्यनाधञ्च ढाकिन्यां भीम शङ्करम् |  
 >
-> सेतुबन्धेतु रामेशं नागेशं दारुकावने ‖
+> सेतुबन्धेतु रामेशं नागेशं दारुकावने ‖  
 >
-> वारणाश्यान्तु विश्वेशं त्रयम्बकं गौतमीतटे |
+> वारणाश्यान्तु विश्वेशं त्रयम्बकं गौतमीतटे |  
 >
-> हिमालयेतु केदारं घृष्णेशन्तु विशालके ‖
+> हिमालयेतु केदारं घृष्णेशन्तु विशालके ‖  
 >
-> एतानि ज्योतिर्लिङ्गानि सायं प्रातः पठेन्नरः |
+> एतानि ज्योतिर्लिङ्गानि सायं प्रातः पठेन्नरः |  
 >
-> सप्त जन्म कृतं पापं स्मरणेन विनश्यति ‖
+> सप्त जन्म कृतं पापं स्मरणेन विनश्यति ‖  
 
 > **_Meaning_** _–_
 >
-> _Somanath in Saurashtra and Mallikarjunam in Shri-Shailam; Mahakaal in Ujjain, Omkareshwar in Amleshwar._
+> _Somanath in Saurashtra and Mallikarjunam in Shri-Shailam;   Mahakaal in Ujjain, Omkareshwar in Amleshwar._  
 >
-> _Vaidyanath in Paralya and Bhimashankaram in Dakinya; Ramesham (Rameshwaram) in Sethubandh, Nagesham (Nageshwar) in Darauka-Vana._
+> _Vaidyanath in Paralya and Bhimashankaram in Dakinya;   Ramesham (Rameshwaram) in Sethubandh, Nagesham (Nageshwar) in Darauka-Vana._  
 >
-> _Vishvanath in Vanarasi, Triambakam at bank of the river Gautami; Kedarnath in Himalayas and Gushmeshwar in Shivalaya (Shiwar)._
+> _Vishvanath in Vanarasi, Triambakam at bank of the river Gautami;_  
+>
+>  _Kedarnath in Himalayas and Gushmeshwar in Shivalaya (Shiwar)._  
 >
 > _One who recites these Jyotirlingas every evening and morning, is gets relieved of all sins committed in past seven lives._
 
