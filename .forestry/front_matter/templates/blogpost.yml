@@ -93,6 +93,7 @@ fields:
   label: URL
   description: Custom URL of this post
 pages:
+- content/post/Culture-History/jyotirlinga.md
 - content/post/Culture-History/sawan-ka-mahina.md
 - content/post/Embroideries/banjara-embroidery-the-timeless-craft.md
 - content/post/Embroideries/gara-the-parsi-work.md
