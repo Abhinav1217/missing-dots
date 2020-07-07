@@ -16,7 +16,7 @@ According to the Hindu calendar, this is the beginning of the holy month of shra
 
 **Adi Guru Shankaracharya** who revived Hinduism in 800CE, has mentioned these Jyotirlingas in his **Dwadasha jyotirlinga** **stotram**. The stotram describes the name and location of each shrine. It is believed that a sincere devotee who recites this stotram regularly washes all his sins committed in seven previous births.
 
-> सौराष्ट्रे सोमनाधञ्च श्रीशैले मल्लिकार्जुनम् |  
+> सौराष्ट्रे सोमनाधञ्च श्रीशैले मल्लिकार्जुनम् | <br />
 >
 > उज्जयिन्यां महाकालं ओङ्कारेत्वमामलेश्वरम् ‖  
 >
