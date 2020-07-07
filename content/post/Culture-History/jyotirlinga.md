@@ -42,7 +42,7 @@ According to the Hindu calendar, this is the beginning of the holy month of shra
 >
 >  _Kedarnath in Himalayas and Gushmeshwar in Shivalaya (Shiwar)._  
 >
-> _One who recites these Jyotirlingas every evening and morning, is gets relieved of all sins committed in past seven lives._
+> _One who recites these Jyotirlingas every evening and morning, is gets relieved of all sins committed in past seven lives._  
 
 This laghu stotram contains name of all the 12 Jyotirlingas. Those who visit these, gets all his wishes fulfilled by Shiva grace and their karma gets balanced as Maheshwara (Shiva) gets satisfied to the worship.
 
