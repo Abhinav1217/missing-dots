@@ -2,7 +2,6 @@
 authors = ["Sapna Rani Kulshreshtha"]
 categories = []
 date = 2020-07-07T16:11:00Z
-draft = true
 excerpt = ""
 series = []
 tags = ["Random-thoughts", "Folklore", "Culture"]
