@@ -342,7 +342,6 @@ blockquote::before {
 
 blockquote p {
   display: block;
-  line-height: 1;
   font-style: italic;
   word-spacing: 5px;
   padding-left: 1rem; }
