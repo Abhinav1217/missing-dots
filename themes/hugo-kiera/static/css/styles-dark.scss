@@ -408,6 +408,13 @@ blockquote::before {
   left: 6px;
   top: 0;
 }
+blockquote p {
+	display: block;
+	line-height: 1;
+	font-style: italic;
+	word-spacing: 5px;
+	padding-left: 1rem;
+}
 
 @media only screen and (max-width: 800px) {
   blockquote {
