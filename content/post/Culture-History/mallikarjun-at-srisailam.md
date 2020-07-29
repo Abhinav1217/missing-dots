@@ -8,8 +8,7 @@ series = []
 tags = ["Travel", "Folklore", "History"]
 timeToRead = 2
 title = "Mallikarjun at srisailam"
-url = ""
-
+url = "/culture-history/j2-Mallikarjun"
 +++
 
 The second Jyotirlinga Mallikarjun is situated on Mount Srisailam in Andhra Pradesh. Mount Srisailam is also called ‘ _Kailash of South India_’. It lies in the _NallaMala_ hills and one has to pass through dense forest to reach the temple. The temple is located on the bank of river Krishna,which is here in the form of _PatalGanga_ (underground spring). The unique feature of this temple is the combination of Jyotirlinga and Mahashakti in one campus and only one of its kind.
