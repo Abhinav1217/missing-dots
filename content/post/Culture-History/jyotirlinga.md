@@ -1,13 +1,13 @@
 +++
 authors = ["Sapna Rani Kulshreshtha"]
-categories = []
+categories = ["Jyotirlinga"]
 date = 2020-07-07T16:11:00Z
 excerpt = ""
 series = []
 tags = ["Random-thoughts", "Folklore", "Culture"]
 timeToRead = 2
 title = "Jyotirlinga"
-url = ""
+url = "/culture-history/the-12-jyotirlings"
 
 +++
 ![The 12 Jyotirlings](/images/shankar-main.png "The 12 Jyotirlings")_Image credit: religionworld.in_
@@ -32,7 +32,7 @@ According to the Hindu calendar, this is the beginning of the holy month of shra
 >
 > सप्त जन्म कृतं पापं स्मरणेन विनश्यति ‖  
 
-> **_Meaning_** _–_
+> **_Meaning :_**
 >
 > _Somanath in Saurashtra and Mallikarjunam in Shri-Shailam;   Mahakaal in Ujjain, Omkareshwar in Amleshwar._  
 >

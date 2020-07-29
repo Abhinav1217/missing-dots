@@ -1,14 +1,14 @@
 +++
 authors = ["Sapna Rani Kulshreshtha"]
-categories = []
+categories = ["Jyotirlinga"]
 date = 2020-07-11T06:01:00Z
 draft = true
 excerpt = ""
 series = []
-tags = ["Travel", "Culture", "History"]
+tags = ["Travel", "Folklore", "History"]
 timeToRead = 2
 title = "The temple of somnath"
-url = ""
+url = "/culture-history/j1-somnath"
 
 +++
 
