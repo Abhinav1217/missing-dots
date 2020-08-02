@@ -10,27 +10,24 @@ title = "The Temple of Mahakaal"
 url = "/culture-history/j3-mahakaleshwar"
 
 +++
-![](/images/mahakal_temple_ujjain.JPG)
+![Front of Mahakaal Temple Ujjain - CC Wikimedia](/images/mahakal_temple_ujjain.JPG "Mahakaal Temple")
 
-> अवन्तिकायां विहितावतारं मुक्तिप्रदानाय च सज्जनानाम् |
 >
+> अवन्तिकायां विहितावतारं मुक्तिप्रदानाय च सज्जनानाम् |
 > अकालमृत्योः परिरक्षणार्थं वन्दे महाकालमहासुरेशम् ‖ 3 ‖
 >
 > _-- Meaning:_
 >
 > _I salute that Maha Kala,_
->
 > _Who is the lord of all devas,_
->
 > _Who has incarnated in the city of Avanthi,_
->
 > _For giving salvation to good people,_
->
 > _And to save people from untimely death._
+> 
 
 The third temple in the series of Jyotirlingas is the Mahakaleshwar temple of Ujjain in the state of Madhya Pradesh. Located on the banks of river Shipra, Ujjain is among the most ancient cities of India.
 
-![](/images/screenshot-from-2020-08-02-22-40-42.png)
+![Location on Map Showing Nearest Major Cities.](/images/screenshot-from-2020-08-02-22-40-42.png "Ujjain on Map")
 
 The presiding deity in the temple is Lord Shiva who resides here as Mahakaal. The lingam here is Swayambhoo (Self-Originated) and derives Shakti (power) from within itself, unlike other lingam that were established ritually by chanting mantras. The temple has some unique features that make it special. Mahakaal is considered as the king here.
 
