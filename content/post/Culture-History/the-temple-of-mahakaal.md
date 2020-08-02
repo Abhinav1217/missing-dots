@@ -33,11 +33,11 @@ The third temple in the series of Jyotirlingas is the Mahakaleshwar temple of Uj
 
 The presiding deity in the temple is Lord Shiva who resides here as Mahakaal. The lingam here is Swayambhoo (Self-Originated) and derives Shakti (power) from within itself, unlike other lingam that were established ritually by chanting mantras. The temple has some unique features that make it special. Mahakaal is considered as the king here.
 
-The Shiva Linga is Dakshinamukhi (south facing), unlike the rest of the Jyotirlingas. The main complex is a three-storeyed structure with the lingams of Mahakaleshwar, Omkareshwar and Nagchandreshwar in the lower, middle and upper tiers respectively. The devotees can worship Nagchandreshwar only on the day of Nag Panchami. On regular days it is inaccessible to the common Public.
+The Shiva Linga is Dakshinamukhi (south facing), unlike the rest of the Jyotirlingas. The main complex is a three-storey structure with the lingams of "Mahakaleshwar", "Omkareshwar" and "Nagchandreshwar" in the lower, middle and upper tiers respectively. The devotees can worship Nagchandreshwar only on the day of Nag Panchami. On regular days it is inaccessible to the common Public.
 
-The temple is famous for the Bhasm-aarti. It is exclusive to Mahakaleshwar temple and is performed early morning with sacred ashes. The word Kaal has two meanings - Time and Death. Mahakaal is the God who controls time, which is beyond man’s control. Aman is reduced to Ash post death,and the Bhasm-aarti symbolises the act of bowing in front of Mahakaal.
+The temple is famous for the _Bhasm-aarti_. It is exclusive to Mahakaleshwar temple and is performed early morning with sacred ashes. The word Kaal has two meanings - Time and Death. Mahakaal is the God who controls time, which is beyond man’s control. Aman is reduced to Ash post death,and the Bhasm-aarti symbolizes the act of bowing in front of Mahakaal.
 
-The temple is known to exist here since time immemorial. The original structure was destroyed during muslim invasions. The Present temple complex was reconstructed by the Scindias, the maratha rulers of Gwalior.
+The temple is known to exist here since time immemorial. The original structure was destroyed during Muslim invasions. The Present temple complex was reconstructed by the Scindias, the Maratha rulers of Gwalior.
 
 The temple complex is a spacious courtyard with sculptural finery and sophistication that is influenced by Maratha Bhumija and Chalukya style of structural design. There is a large pool known as Koti Tirth which is considered astronomical. To the east of the Kund lies a huge verandah, in which is the entrance to the path leading to the Garbhagriha where small size images of Parvati Ganesha and Kartikeya can be seen.
 
