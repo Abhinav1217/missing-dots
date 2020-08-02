@@ -12,27 +12,24 @@ url = "/culture-history/j1-somnath"
 +++
 ![Somnath Temple - Public Domain Image from Needpix](/images/somnath-temple-needpix.jpg "Somnath Temple")
 
-> सौराष्ट्रदेशे विशदेऽतिरम्ये ज्योतिर्मयं चन्द्रकलावतंसम् |
+
 >
+> सौराष्ट्रदेशे विशदेऽतिरम्ये ज्योतिर्मयं चन्द्रकलावतंसम् |
 > भक्तप्रदानाय कृपावतीर्णं तं सोमनाथं शरणं प्रपद्ये ‖ 1 ‖
 >
-> \-- _Meaning_
+> -- _Meaning_
 >
 > _I seek refuge of the Soma Nadha,_  
->
 > _Who is in the holy and pretty Sourashtra,_  
->
 > _Who is dazzling with light,_
->
 > _Who wears the crescent of the moon,_
->
 > _Who has come there to give,_  
->
 > _The gift of devotion and mercy._
+> 
 
 The Somnath Temple is located near Veraval (in Saurashtra region) in the west coast of Gujarat. It is the first Jyotirlinga among the twelve listed by Adi Guru Shankaracharya. The temple is considered sacred due to the various legends connected with it. The temple is known in history for the number of destructions and reconstructions it went through. The site of the temple has been a pilgrimage site since ancient days. It was known as Triveni sangam, a confluence of Three Rivers - Kapila, Hiranya and Saraswati.
 
-![](/images/screenshot-from-2020-08-02-19-20-17.png)
+![Location on Map Showing Nearby Major Cities.](/images/screenshot-from-2020-08-02-19-20-17.png "Location on Map")
 
 The Ancient Hindu texts mention this region as Prabhas Kshetra. There is an interesting story regarding the name and importance of this place. According to the legend, the earliest temple here was built by Chandra Dev (Moon). Chandra had married 27 daughters of Daksha Prajapati, but he was partial to one of them, Rohini. Being jealous, the other queens reported to their father. The father got upset and cursed Chandra that he would lose all his lustre and fade away. To get rid of the curse, Chandra prayed to Lord Shiva at this place for six months. Lord Shiva blessed him and reduced the curse. This incident led to the periodic waning of the moon. Chandra took a dip in the Saraswati river and began to glow. Then he built a beautiful golden temple and put a Glorious Jyotirlinga in it, the first of its kind. Lord Shiva resides here as _Som Nath_ ‘the lord of the moon’. The Moon regained its glow here hence the place came to be known as Prabhas Kshetra.
 
