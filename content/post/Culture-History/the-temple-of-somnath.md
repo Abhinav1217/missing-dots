@@ -10,6 +10,8 @@ title = "The Temple of Somnath"
 url = "/culture-history/j1-somnath"
 
 +++
+![Somnath Temple - Public Domain Image from Needpix](/images/somnath-temple-needpix.jpg "Somnath Temple")
+
 > सौराष्ट्रदेशे विशदेऽतिरम्ये ज्योतिर्मयं चन्द्रकलावतंसम् |
 >
 > भक्तप्रदानाय कृपावतीर्णं तं सोमनाथं शरणं प्रपद्ये ‖ 1 ‖
@@ -28,8 +30,6 @@ url = "/culture-history/j1-somnath"
 >
 > _The gift of devotion and mercy._
 
-![Somnath Temple](/images/somnath-temple-needpix.jpg "Somnath Temple")
-
 The Somnath Temple is located near Veraval (in Saurashtra region) in the west coast of Gujarat. It is the first Jyotirlinga among the twelve listed by Adi Guru Shankaracharya. The temple is considered sacred due to the various legends connected with it. The temple is known in history for the number of destructions and reconstructions it went through. The site of the temple has been a pilgrimage site since ancient days. It was known as Triveni sangam, a confluence of Three Rivers - Kapila, Hiranya and Saraswati.
 
 ![](/images/screenshot-from-2020-08-02-19-20-17.png)
@@ -45,6 +45,8 @@ The temple was completed in five years (1947-51). It was financed by public dona
 Other than the temple, The region also holds its importance in Krishna stories. It is said that the last rites of Lord Krishna was performed on the Triveni Sangam, i.e. here. There is a place called Bhallaka Teerth ( भल्लका तीर्थ ), This place is where Shri Krishna was injured by an arrow and took his last breath. A deep cave near this place is where Balram, who was an incarnation of Shesh Nag, also went back. 
 
 There is a museum that houses artifacts from the ruins of the previous temples and information about the place. The temple is situated at a very extraordinary place . An ancient pillar standing in the temple premises. This pillar known as Baan stambh (arrow pillar) has an inscription in Sanskrit which says that there is not a single piece of land from this point to the south pole. This is a wonderful indicator of ancient Indian wisdom.
+
+***
 
 **_Footnote:_**
 
