@@ -18,31 +18,35 @@ According to the Hindu calendar, this is the beginning of the holy month of shra
 
 > सौराष्ट्रे सोमनाधञ्च श्रीशैले मल्लिकार्जुनम् |
 >
-> उज्जयिन्यां महाकालं ओङ्कारेत्वमामलेश्वरम् ‖  
+> उज्जयिन्यां महाकालं ओङ्कारेत्वमामलेश्वरम् ‖
 >
-> पर्ल्यां वैद्यनाधञ्च ढाकिन्यां भीम शङ्करम् |  
+> पर्ल्यां वैद्यनाधञ्च ढाकिन्यां भीम शङ्करम् |
 >
-> सेतुबन्धेतु रामेशं नागेशं दारुकावने ‖  
+> सेतुबन्धेतु रामेशं नागेशं दारुकावने ‖
 >
-> वारणाश्यान्तु विश्वेशं त्रयम्बकं गौतमीतटे |  
+> वारणाश्यान्तु विश्वेशं त्रयम्बकं गौतमीतटे |
 >
-> हिमालयेतु केदारं घृष्णेशन्तु विशालके ‖  
+> हिमालयेतु केदारं घृष्णेशन्तु विशालके ‖
 >
-> एतानि ज्योतिर्लिङ्गानि सायं प्रातः पठेन्नरः |  
+> एतानि ज्योतिर्लिङ्गानि सायं प्रातः पठेन्नरः |
 >
-> सप्त जन्म कृतं पापं स्मरणेन विनश्यति ‖  
+> सप्त जन्म कृतं पापं स्मरणेन विनश्यति ‖
 
 > **_Meaning :_**
 >
-> _Somanath in Saurashtra and Mallikarjunam in Shri-Shailam;   Mahakaal in Ujjain, Omkareshwar in Amleshwar._  
+> _Somanath in Saurashtra and Mallikarjunam in Shri-Shailam;_   
 >
-> _Vaidyanath in Paralya and Bhimashankaram in Dakinya;   Ramesham (Rameshwaram) in Sethubandh, Nagesham (Nageshwar) in Darauka-Vana._  
+> _Mahakaal in Ujjain, Omkareshwar in Amleshwar._
 >
-> _Vishvanath in Vanarasi, Triambakam at bank of the river Gautami;_  
+> _Vaidyanath in Paralya and Bhimashankaram in Dakinya;_  
 >
->  _Kedarnath in Himalayas and Gushmeshwar in Shivalaya (Shiwar)._  
+> _Ramesham (Rameshwaram) in Sethubandh, Nagesham (Nageshwar) in Darauka-Vana._
 >
-> _One who recites these Jyotirlingas every evening and morning, is gets relieved of all sins committed in past seven lives._  
+> _Vishvanath in Vanarasi, Triambakam at bank of the river Gautami;_
+>
+> _Kedarnath in Himalayas and Gushmeshwar in Shivalaya (Shiwar)._
+>
+> _One who recites these Jyotirlingas every evening and morning, is gets relieved of all sins committed in past seven lives._
 
 This laghu stotram contains name of all the 12 Jyotirlingas. Those who visit these, gets all his wishes fulfilled by Shiva grace and their karma gets balanced as Maheshwara (Shiva) gets satisfied to the worship.
 
