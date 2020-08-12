@@ -7,7 +7,7 @@ series = []
 tags = ["Random-thoughts", "Folklore", "Culture"]
 timeToRead = 2
 title = "Chaitanya Mahaprabhu: Perceiver of Krishna."
-url = "/culture-history/chaitanya-mahaorabhu-perceiver-of-krishna"
+url = "/culture-history/chaitanya-mahaprabhu-perceiver-of-krishna"
 
 +++
 ![](/images/chaitanya-mahaprabhu-calendar-scan.jpg)
