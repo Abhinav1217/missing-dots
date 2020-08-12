@@ -2,7 +2,6 @@
 authors = ["Sapna Rani Kulshreshtha"]
 categories = []
 date = 2020-08-12T09:51:00Z
-draft = true
 excerpt = ""
 series = []
 tags = ["Random-thoughts", "Folklore", "Culture"]
@@ -39,6 +38,6 @@ At an early age of 24, Chaitanya left his home to become a Sanyasi. He travelled
 
 Leaving his students in Vrindavan, he travelled once again, to east. By this time, His fame as a learned scholar had spread to far places. He was invited to Odisha, where he preached vaishnavism, and participated in nayas ( a form of debate tournaments held by kings and patrons ). He stayed in Puri for remaining of his life surrounded by his students. His devotion to Lord Krishna was so strong that nowadays some considers him a reincarnation of Lord Krishna.
 
-Devotees of Krishna today have a great affection to the Mahaprabhu. For them, The Nabadwip and Mayapur, holds  
+Devotees of Krishna today have a great affection to the Mahaprabhu. For them, The Nabadwip and Mayapur, holds as importance as a Dhaam. The Vaishnavas who come here as pilgrims to visit the places connected with the life of Mahaprabhu. Both these places are located on the river banks and boats are the best mode of transport between them. A trip here is an experience in itself. It transports you back in time as you can feel the presence of Mahaprabhu everywhere.
 
-Today, from the foundation of his teachings, ISKCON has more than 600 temples globally, and is the largest Hindu Organization. 
+Today, from the foundation of his teachings, ISKCON has more than 600 temples globally, and is the largest Hindu Organization. On top of that, Krishna is most recognizable deity globally. His teachings and principles, has played an important role in modern Hinduism.
