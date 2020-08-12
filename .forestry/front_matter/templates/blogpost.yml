@@ -94,6 +94,7 @@ fields:
   label: URL
   description: Custom URL of this post
 pages:
+- content/post/Culture-History/chaitanya-mahaprabhu-perceiver-of-krishna.md
 - content/post/Culture-History/jyotirlinga.md
 - content/post/Culture-History/sawan-ka-mahina.md
 - content/post/Culture-History/the-temple-of-mahakaal.md
