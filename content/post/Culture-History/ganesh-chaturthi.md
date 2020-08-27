@@ -2,7 +2,6 @@
 authors = ["Sapna Rani Kulshreshtha"]
 categories = []
 date = 2020-08-27T08:27:00Z
-draft = true
 excerpt = ""
 series = []
 tags = ["Random-thoughts", "Folklore", "History"]
@@ -13,7 +12,7 @@ url = "/culture-history/ganesh-chaturthi"
 +++
 ![](/images/4011464.jpg)
 
-<a href='[https://www.freepik.com/vectors/hand](https://www.freepik.com/vectors/hand "https://www.freepik.com/vectors/hand")'>Hand vector created by freepik - www.freepik.com</a>
+<a href='[https://www.freepik.com/vectors/hand](https://www.freepik.com/vectors/hand "https://www.freepik.com/vectors/hand")' class="source-attribution">Hand vector created by freepik</a>
 
 ***
 
