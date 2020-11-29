@@ -5,9 +5,9 @@ date = 2020-11-29T13:39:00Z
 draft = true
 excerpt = ""
 series = []
-tags = ["Culture", "History"]
+tags = ["Random-thoughts", "Culture", "History"]
 timeToRead = 2
-title = "Kartik Poornima, Across India"
+title = "Kartik Poornima, Journey Across India"
 url = ""
 
 +++
