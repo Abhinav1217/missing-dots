@@ -10,7 +10,7 @@ title = "Kartik Poornima, Journey Across India"
 url = "/culture-history/kartik-poornima"
 
 +++
-_Kartik_, the eighth month of the Hindu calendar is the holiest and most significant month for the Hindus. Many important festivals such as _Karwa Chauth, Ahoi Ashtami, Deepawali, Gowardhan Puja, Bhai Dooj, Chhat Puja_ fall in this month. The _Ekadash_(eleventh day) after Deepavali is called Devuthana. It marks the end of Ch_turmas._Lord Vishnu wakes up and is the time to begin auspicious celebrations like marriages. The month ends on the Full moon day or the Kartik Purnima which is an important and most auspicious day. It is celebrated by the Sikhs and Jains as well.
+_Kartik_, the eighth month of the Hindu calendar is the holiest and most significant month for the Hindus. Many important festivals such as _Karwa Chauth, Ahoi Ashtami, Deepawali, Gowardhan Puja, Bhai Dooj, Chhat Puja_ fall in this month. The _Ekadash_(eleventh day) after Deepavali is called Devuthana. It marks the end of Chaturmas. Lord Vishnu wakes up and is the time to begin auspicious celebrations like marriages. The month ends on the Full moon day or the Kartik Purnima which is an important and most auspicious day. It is celebrated by the Sikhs and Jains as well.
 
 **Sikhism:**
 
