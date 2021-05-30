@@ -1,6 +1,6 @@
 +++
 authors = ["Sapna Rani Kulshreshtha"]
-categories = []
+categories = ["Random-Thoughts"]
 date = 2021-05-30T06:23:00Z
 draft = true
 excerpt = ""
