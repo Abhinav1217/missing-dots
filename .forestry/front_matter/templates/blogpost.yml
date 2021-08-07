@@ -95,6 +95,7 @@ fields:
   label: URL
   description: Custom URL of this post
 pages:
+- content/post/Culture-History/Jyotirlinga/the-temple-of-omkareshwar.md
 - content/post/Culture-History/chaitanya-mahaprabhu-perceiver-of-krishna.md
 - content/post/Culture-History/chaitra-navratri.md
 - content/post/Culture-History/ganesh-chaturthi.md
