@@ -10,7 +10,6 @@ title = "Forgotten Tales of Indian Independence."
 url = "/random-thoughts/begum-hazarat-mahal-and-lucknow-residency-saga"
 
 +++
-
 ![Begum Hazarat Mahal Portarit from Wikimedia](/images/begum_hazrat_mahal.jpg "Begum Hazarat Mahal")
 
 Today, the 15th of August, India is celebrating the day when the country got its freedom. It was on 15th August1947 that India was declared independent from British colonialism and reins of control were handed over to the leaders of the country. It marked the end of almost 200 years of British rule in the subcontinent.
@@ -27,4 +26,6 @@ On 5th of July, she triumphantly reinstated Indian rule in Awadh, handing over t
 
 She lay buried in the grounds of the Jama Masjid in Kathmandu. In an attempt to recognise her role in India’s first freedom struggle she was honoured at old Victoria park in Lucknow on 15thAugust 1962, and was commemorated with a marble memorial, bearing the coat of arms of the Awadh family. The park was renamed after her. The park is located in the heart of the city, near the famous Hazratganj market in lucknow. It once hosted many Dussehra festivals and Lucknow Mahotsav which showcase the art and culture of Awadh. It is now the most beautiful and greenest place in the city.
 
-Efforts of Independence by her, and likes of her, are not taught in history lessons in schools, because they don't fit neatly into the preferred narrative of how we got Independence. Even today the wikipedia page calls it [The Siege of Lucknow](), with a narrative not in favour of Indians. But the local myths, and the spirit of Independent India, will never let them be forgotten.
+Efforts of Independence by her, and likes of her, are not taught in history lessons in schools, because they don't fit neatly into the preferred narrative of how we got Independence. Even today the wikipedia page calls it [The Siege of Lucknow](), with a narrative not in favour of Indians. But the local myths, and the spirit of Independent India, will never let them be forgotten. 
+
+> **Happy Independence Day** 
