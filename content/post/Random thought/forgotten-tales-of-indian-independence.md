@@ -6,7 +6,7 @@ excerpt = ""
 series = []
 tags = ["Random-thoughts", "History"]
 timeToRead = 2
-title = "Forgotten Tales of Indian Independence."
+title = "(Un) Forgotten Tales of Indian Independence."
 url = "/random-thoughts/begum-hazarat-mahal-and-lucknow-residency-saga"
 
 +++
