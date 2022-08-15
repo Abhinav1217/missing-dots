@@ -12,15 +12,15 @@ url = "/random-thoughts/Santhals"
 +++
 > _Today, we celebrate 75 years of Indian Independence. We join with all the Indians around the world, hoping for a better future for our childrens, and remembering the efforts we took to get here._
 
-On 15th of August 1947, India was declared free from British rule. We all have grown up celebrating this day with patriotic songs and stories of freedom fighters who participated in the struggle for a free nation. The British ruled over India for nearly 200 years. During this period they had introduced policies that were unfavorable for the local people which led to several revolts. **_Unfortunately, most of the incidents remain in our folklore and find little or no space in our books._**
+On 15th of August 1947, India was declared free from British rule. We all have grown up celebrating this day with patriotic songs and stories of freedom fighters who participated in the struggle for a free nation. The British ruled over India for nearly 200 years. During this period they had introduced policies that were unfavorable for the local people which led to several revolts. _Unfortunately, most of the incidents remain in our folklore and find little or no space in our books._
 
 The first war for Indian independence started in 1857, with sepoy mutiny pioneered by Mangal Pandey. But two years before that, in the year 1855, a major rebellion happened in Bengal, the first ever against the British East India Company. This revolt led by the santhal tribes was a fight against the atrocities of the land lords, moneylenders, the officials and all those who dominated the economic sphere of their life and exploited them.
 
-> > This is one such story, about a community, a tribe, which contributed a small but significant efforts for independence, and also gave us our first president from a tribal heritage.
+_This is one such story, about a community, a tribe, which contributed a small but significant efforts for independence, and also gave us our first president from a tribal heritage._
 
 ##### Who are the Santhals?
 
-> The Santhals are the third largest tribal group after Gonds and Bhils. 
+> The Santhals are the third largest tribal group after Gonds and Bhils.
 
 Santhals are an Ethnic community native to present day Jharkhand and neighboring states of Bihar, Bengal and Odisha. They are skilled in various arts including music and handicraft and have a rich cultural heritage. They speak Santhali language, and also have a script called **"Ol Chiki"** **which belongs to austro-asiatic language group.** The santhals are the third largest tribal group after Gonds and Bhils. They live in villages near forests and depend on forest produce and farming for livelihood.
 
