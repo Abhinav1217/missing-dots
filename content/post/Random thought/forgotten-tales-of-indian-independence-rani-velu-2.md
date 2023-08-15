@@ -1,16 +1,18 @@
-+++
-authors = ["Sapna Rani Kulshreshtha"]
-categories = ["Random-Thoughts"]
-date = 2023-08-15T14:24:00Z
-excerpt = ""
-series = ["Tales of Indian Independence"]
-tags = ["Random-thoughts", "History"]
-timeToRead = 2
-title = "(Un) Forgotten Tales of Indian Independence - Rani Velu Nachchiyar"
-url = "/random-thoughts/rani-velu-nachchiyar"
+---
+description : ""
+tags : ["Random-thoughts", "History"]
+series : ["Tales of Indian Independence"]
+categories : ["Random-Thoughts"]
+date: 2023-08-15T15:21:38+05:30
+excerpt: ""
+timeToRead: 2
+title: "(Un) Forgotten Tales of Indian Independence - Rani Velu Nachchiyar"
+url : "/random-thoughts/rani-velu-nachchiyar" 
+authors:
+  - Sapna Rani Kulshreshtha
 
-+++
-![Rani Velu Nachchiar Stamp from Indian Postal Service](/images/rani-velu-nachchiyar-stamp.jpg "Rani Velu Nachchiyar")
+---
+![Rani Velu Nachchiar Stamp from Indian Postal Service](/images/rani_velu_nachchiyar_stamp.jpg "Rani Velu Nachchiyar")
 
 > _Today, we celebrate 76 years of Indian Independence. We join with all the Indians around the world, hoping for a better future for our childrens, and remembering the efforts we took to get here._
 
