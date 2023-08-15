@@ -1,19 +1,9 @@
 [categories]
-# other = "Series:"
 other = "Categories:"
-
-[series]
-other = "Series:"
-
-[tags]
-other = "Tags: "
-
-[author]
-other = "Written by - "
 
 [readingTime]
 one = "One minute read"
-other = "{{.Count}} minutes read"
+other = "{{.Count}} minute read"
 
 [readMore]
 other = "Read more…"
@@ -29,3 +19,6 @@ other = "Rendered by"
 
 [comments]
 other = "Add/View Comments"
+
+[modifiedOn]
+other = "Modified on"

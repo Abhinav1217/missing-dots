@@ -4,8 +4,11 @@ languageCode: en
 title: Missing Dots
 pygmentsstyle: monokai
 googleAnalytics: UA-149069023-1
-theme: hugo-kiera
-style: auto
+# theme: hugo-kiera
+theme: anubis
+# theme: beautifulhugo
+# theme: jane
+style: dark
 paginate: 10
 taxonomies:
   author: authors
@@ -20,6 +23,7 @@ DefaultContentLanguage: en
 enableInlineShortcodes: true
 footnoteReturnLinkContents: "^"
 params:
+  style: light
   author: Sapna Rani Kulshreshtha
   pseudo: Sapna Rani
   tagline: A simple blog on history, food, culture, and some forgotten stories.
@@ -57,7 +61,7 @@ params:
     title: Series
     url: "/series/"
     weight: 0
-copyright: Copyright &copy; 2020 - Sapna Rani Kulshreshtha
+copyright: Copyright &copy; 2020 - 2023 Sapna Rani Kulshreshtha
 canonifyurls: true
 enableRobotsTXT: true
 noLicense: true
