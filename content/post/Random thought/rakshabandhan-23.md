@@ -1,5 +1,6 @@
 ---
 title: "Raksha Bandhan"
+url: "/random-thoughts/rakshabandhan"
 description : "Raksha Bandhan: A celebration of the bond between brother and sister."
 tags : ["Random Thoughts", "Culture"]
 date: 2023-08-29T23:08:50+05:30
