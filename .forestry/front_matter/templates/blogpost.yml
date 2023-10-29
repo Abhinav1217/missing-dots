@@ -26,6 +26,7 @@ fields:
     - Handloom
     - Handicraft
     - Random-thoughts
+    - Festivals
     min: 1
     max: 3
 - type: list
@@ -42,6 +43,7 @@ fields:
     - Needle & Thread
     - Jyotirlinga
     - Random-Thoughts
+    - Stories of Indian Independence
     min: 0
     max: 1
 - type: list
@@ -57,6 +59,7 @@ fields:
     - Handlooms of India
     - Story of a Coin
     - Needle & Thread
+    - Stories of Indian Independence
     min: 0
     max: 1
 - type: number
