@@ -1,3 +1,7 @@
+---
+_template: blogpost
+---
+
 +++
 authors = ["Sapna Rani Kulshreshtha"]
 categories = ["Random-Thoughts"]
