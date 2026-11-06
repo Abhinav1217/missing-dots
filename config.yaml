@@ -2,7 +2,6 @@
 baseURL: https://missing-dots.in/
 locale: en
 title: Missing Dots
-theme: anubis
 pagination:
   pagerSize: 10
 taxonomies:
