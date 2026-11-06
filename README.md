@@ -4,7 +4,7 @@ A blog for my mother. She plans to write about historical stuff. The domain name
 
 ## Prerequisites
 
-- Hugo extended 0.167.0 (pinned in `netlify.toml`)
+- Hugo extended 0.169.0 (pinned in `netlify.toml`)
 - git-lfs
 
 ## Development
