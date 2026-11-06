@@ -1,15 +1,10 @@
 ---
 baseURL: https://missing-dots.in/
-languageCode: en
+locale: en
 title: Missing Dots
-pygmentsstyle: monokai
-googleAnalytics: UA-149069023-1
-# theme: hugo-kiera
 theme: anubis
-# theme: beautifulhugo
-# theme: jane
-style: dark
-paginate: 10
+pagination:
+  pagerSize: 10
 taxonomies:
   author: authors
   category: categories
@@ -21,7 +16,13 @@ showCategories: true
 showTags: true
 DefaultContentLanguage: en
 enableInlineShortcodes: true
-footnoteReturnLinkContents: "^"
+markup:
+  goldmark:
+    extensions:
+      footnote:
+        backlinkHTML: "^"
+  highlight:
+    style: monokai
 params:
   style: light
   author: Sapna Rani Kulshreshtha
@@ -61,7 +62,7 @@ menu:
       title: Series
       url: "/series/"
       weight: 0
-copyright: Copyright &copy; 2020 - 2023 Sapna Rani Kulshreshtha
+copyright: Copyright &copy; 2020 - 2026 Sapna Rani Kulshreshtha
 canonifyurls: true
 enableRobotsTXT: true
 noLicense: true

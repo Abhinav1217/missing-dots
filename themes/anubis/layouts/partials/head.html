@@ -54,8 +54,8 @@
   {{ partial "resource.html" (dict "context" $ "type" "js" "filename" . ) }}
 {{- end }}
 
-{{ template "_internal/opengraph.html" . }}
-{{ template "_internal/twitter_cards.html" . }}
+{{ partial "opengraph.html" . }}
+{{ partial "twitter_cards.html" . }}
 
 {{ if isset .Site.Params "webmentions" }}
     {{ if isset .Site.Params.webmentions "login"  }}
@@ -75,8 +75,8 @@
 <meta property="article:tag" content="">
 <meta property="article:publisher" content="https://www.facebook.com/XXX"> -->
 
-{{ if and (.Site.GoogleAnalytics) (hugo.IsProduction) }}
-    {{ template "_internal/google_analytics.html" . }}
+{{ if and (.Site.Config.Services.GoogleAnalytics.ID) (hugo.IsProduction) }}
+    {{ partial "google_analytics.html" . }}
 {{ end }}
 
 {{ if (.Site.Params.UmamiAnalytics.enabled ) }}

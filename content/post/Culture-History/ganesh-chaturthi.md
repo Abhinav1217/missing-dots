@@ -4,7 +4,7 @@ categories = []
 date = 2020-08-27T08:27:00Z
 excerpt = ""
 series = []
-tags = ["Random-thoughts", "Folklore", "History"]
+tags = ["Random-Thoughts", "Folklore", "History"]
 timeToRead = 2
 title = "Ganesh Utsav"
 url = "/culture-history/ganesh-chaturthi"
@@ -12,7 +12,7 @@ url = "/culture-history/ganesh-chaturthi"
 +++
 ![](/images/4011464.jpg)
 
-<a href='[https://www.freepik.com/vectors/hand](https://www.freepik.com/vectors/hand "https://www.freepik.com/vectors/hand")' class="source-attribution">Hand vector created by freepik</a>
+[Hand vector created by freepik](https://www.freepik.com/vectors/hand)
 
 ***
 

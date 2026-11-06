@@ -1,6 +1,6 @@
 ---
 description : ""
-tags : ["Random-thoughts", "History"]
+tags : ["Random-Thoughts", "History"]
 series : ["Tales of Indian Independence"]
 categories : ["Random-Thoughts"]
 date: 2023-08-15T15:21:38+05:30

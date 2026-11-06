@@ -3,7 +3,7 @@ title: "Ayodhya - The kingdom of Ikshvakus"
 description : "Exploring the origin of Ayodhya."
 tags : ["Ayodhya", Random-thoughts", "Folklore", "History", "Culture"]
 series : ["Ayodhya"]
-categories : ["Ayodhya", "Random-thoughts", "Folklore", "History", "Culture"]
+categories : ["Ayodhya", "Random-Thoughts", "Folklore", "History", "Culture"]
 date: 2024-01-22T21:05:08+05:30
 excerpt: "Ayodhya - The Kingdom of Ikshvakus"
 timeToRead: 5

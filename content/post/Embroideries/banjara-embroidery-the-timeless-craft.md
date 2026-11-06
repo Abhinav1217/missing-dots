@@ -1,6 +1,6 @@
 +++
 authors = ["Sapna Rani Kulshreshtha"]
-categories = ["Needle & Thread"]
+categories = ["Needle-Thread"]
 date = 2020-06-03T08:28:00Z
 excerpt = ""
 series = []
