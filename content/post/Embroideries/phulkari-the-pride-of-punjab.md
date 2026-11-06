@@ -1,7 +1,3 @@
----
-_template: blogpost
----
-
 +++
 authors = ["Sapna Rani Kulshreshtha"]
 date = 2020-05-10T04:22:00Z

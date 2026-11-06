@@ -16,7 +16,7 @@ We had reached a little early and while the preparations for the Arti were going
 
 There are many temples built on the other side that add to the beauty of the ghat. The sun was about to set and the river had been cleaned. With the sound of Devotional songs the locals had started arriving. My eyes caught on a group of monkeys who had just taken a dip in the holy water and were sitting on the steps at a distance. The Arti began with the bells and drums and the whole ambience turned divine.
 
-![Haripadi Ganga Mata (Soron wali)](/images/soroji-ganga-mata.jpeg "Haripadi Ganga Mata (Soron wali)")
+![Haripadi Ganga Mata (Soron wali)](/images/soroji-ganga-mata.jpg "Haripadi Ganga Mata (Soron wali)")
 
 This Haripadi Ganga Ghat is a blessed site. It is associated with Varahdev, the third incarnation of Lord Vishnu in the line of the Dashavatara. Lord Vishnu appeared as a Varah(Wild Boar) to put an end to the powers of the demon king Hiranyaksha and rescue Mother Earth from his captivity. According to the legends, after completing his task, Varaha Dev left for his heavenly abode, Baikuntha Dham from here. For this reason, Soron is mentioned as Sooker Kshetra( region of Boar). There is a temple of Varah Dev on the other side of the Ghat.
 

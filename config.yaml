@@ -29,38 +29,38 @@ params:
   tagline: A simple blog on history, food, culture, and some forgotten stories.
   indexHeadline: " "
   headline: " "
-  menu:
+menu:
   main:
-  - identifier: about
-    name: About
-    title: About
-    url: "/about/"
-    weight: 0
-  - identifier: author
-    name: Author
-    title: Author
-    url: "/author/"
-    weight: 0
-  - identifier: posts
-    name: Posts
-    title: Posts
-    url: "/posts/"
-    weight: 0
-  - identifier: tags
-    name: Tags
-    title: Tags
-    url: "/tags/"
-    weight: 0
-  - identifier: categories
-    name: Categories
-    title: Categories
-    url: "/categories/"
-    weight: 0
-  - identifier: series
-    name: Series
-    title: Series
-    url: "/series/"
-    weight: 0
+    - identifier: about
+      name: About
+      title: About
+      url: "/about/"
+      weight: 0
+    - identifier: author
+      name: Author
+      title: Author
+      url: "/authors/sapna-rani-kulshreshtha/"
+      weight: 0
+    - identifier: posts
+      name: Posts
+      title: Posts
+      url: "/post/"
+      weight: 0
+    - identifier: tags
+      name: Tags
+      title: Tags
+      url: "/tags/"
+      weight: 0
+    - identifier: categories
+      name: Categories
+      title: Categories
+      url: "/categories/"
+      weight: 0
+    - identifier: series
+      name: Series
+      title: Series
+      url: "/series/"
+      weight: 0
 copyright: Copyright &copy; 2020 - 2023 Sapna Rani Kulshreshtha
 canonifyurls: true
 enableRobotsTXT: true

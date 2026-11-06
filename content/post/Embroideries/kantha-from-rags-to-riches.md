@@ -1,7 +1,3 @@
----
-_template: blogpost
----
-
 +++
 authors = ["Sapna Rani Kulshreshtha"]
 categories = ["Needle & Thread"]
