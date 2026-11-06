@@ -1,14 +1,10 @@
----
-_template: blogpost
----
-
 +++
 authors = ["Sapna Rani Kulshreshtha"]
 categories = ["Random-Thoughts"]
 date = 2020-11-29T13:39:00Z
 excerpt = ""
 series = []
-tags = ["Random-thoughts", "Culture", "History"]
+tags = ["Random-Thoughts", "Culture", "History"]
 timeToRead = 2
 title = "Kartik Poornima, Journey Across India"
 url = "/culture-history/kartik-poornima"

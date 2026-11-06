@@ -1,9 +1,9 @@
 ---
 title: "Laddu: A fascinating journey of a sweet from medicine to popular sweet."
 description : "A story about Lord Ganesha's favourit food Item, a simple modak"
-tags : ["Random-thoughts", "Folklore", "History", "Culture"]
+tags : ["Random-Thoughts", "Folklore", "History", "Culture"]
 series : []
-categories : ["Random-thoughts", "Folklore", "History", "Culture"]
+categories : ["Random-Thoughts", "Folklore", "History", "Culture"]
 date: 2023-09-19T20:11:09+05:30
 excerpt: "A default excerpt"
 timeToRead: 5

@@ -1,5 +1,5 @@
 ---
 hero:
-  heading: "Needle & Thread"
+  heading: "Needle-Thread"
   maxWidthPX: "652"
 ---

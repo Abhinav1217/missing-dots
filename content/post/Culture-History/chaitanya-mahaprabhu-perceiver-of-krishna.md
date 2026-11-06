@@ -1,14 +1,10 @@
----
-_template: blogpost
----
-
 +++
 authors = ["Sapna Rani Kulshreshtha"]
 categories = []
 date = 2020-08-12T09:51:00Z
 excerpt = ""
 series = []
-tags = ["Random-thoughts", "Folklore", "Culture"]
+tags = ["Random-Thoughts", "Folklore", "Culture"]
 timeToRead = 2
 title = "Chaitanya Mahaprabhu: Perceiver of Krishna."
 url = "/culture-history/chaitanya-mahaprabhu-perceiver-of-krishna"

@@ -1,13 +1,9 @@
----
-_template: blogpost
----
-
 +++
 authors = ["Sapna Rani Kulshreshtha"]
 date = 2020-05-10T04:22:00Z
 excerpt = "Rituals marking the turning points of a panjabi women"
-categories = ["Needle & Thread"]
-series = ["Needle & Thread"]
+categories = ["Needle-Thread"]
+series = ["Needle-Thread"]
 tags = ["Handicraft", "Culture", "Fashion"]
 timeToRead = 5
 title = "Phulkari: The pride of Punjab"

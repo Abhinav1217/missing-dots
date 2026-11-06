@@ -2,8 +2,8 @@
 authors = ["Sapna Rani Kulshreshtha"]
 date = 2020-05-09T13:08:00Z
 excerpt = "Beauty of Kashmir on your shawl"
-series = ["Needle & Thread"]
-categories = ["Needle & Thread"]
+series = ["Needle-Thread"]
+categories = ["Needle-Thread"]
 tags = ["Handicraft", "Culture", "Fashion"]
 timeToRead = 2
 title = "Kashidakari: Beauty of Kashmir"

@@ -1,10 +1,6 @@
----
-_template: blogpost
----
-
 +++
 authors = ["Sapna Rani Kulshreshtha"]
-categories = ["Needle & Thread"]
+categories = ["Needle-Thread"]
 date = 2020-05-25T13:03:00Z
 excerpt = ""
 series = []

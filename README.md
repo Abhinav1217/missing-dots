@@ -4,61 +4,25 @@ A blog for my mother. She plans to write about historical stuff. The domain name
 
 ## Prerequisites
 
-- Hugo > 0.55.0
+- Hugo extended 0.167.0 (pinned in `netlify.toml`)
 - git-lfs
-
-## Content Management
-
-This project has been configured to work with [Forestry](https://forestry.io). It uses custom front-matter, sidebar setting to make working easier for my mother. Import the repo in forestry to get started automatically.
-
-## Deployment and hosting with Netlify
-
-Import your site in [Netlify](https://netlify.com)
-
-1. Create a new site in Netlify and import your repository.
-2. Set the build command to: `hugo --gc --minify`
-3. Set the publish directory to: `public`
-4. Make sure to set `HUGO_VERSION` to 0.55.0 or above (tested with 0.62.2)
-5. Make sure to set `GIT_LFS_ENABLED` and set it to `true`.
-
-That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry.
-
-*N.B*
-- Automatic deployment can be disabled to save on free quota.
-- Make sure to enable `GIT_LFS_ENABLED` or else [netlify builds will fail](https://community.netlify.com/t/builds-fail-after-new-commit-to-git-lfs/1362).
-- This currently uses slightly modified [hugo-kiera](https://themes.gohugo.io/theme/hugo-kiera/) theme.
 
 ## Development
 ```bash
 # Start local dev server
 hugo server
 ```
-For more information, see [official Hugo documentation](https://gohugo.io/getting-started/).
 
-## Customization
-Slight modification has been done to add `Series` feature.
+## Writing a post
+Add a Markdown file under `content/post/`, or run `hugo new post/<section>/<name>.md`. Posts start as drafts; set `draft: false` to publish. Use the existing spelling of tags, categories and series. `Needle-Thread` is the stored term for "Needle & Thread", which keeps its old URL.
 
-## TODO
-- [x] Deploy site.  
-- [x] Configure stuff to make things really simple.  
-- [x] Add RSS subscription.  
-- [x] Cleanup config files for unused stuff left from trying out other themes.  
-- [x] Add google analytics. 
-- [x] Google SEO
-- [X] Bing SEO 
-- [ ] Add google ad-sense.  
-- [ ] Add site-wide search.  
-- [ ] Add discus comment.  
-- [ ] Add newsletter.  
-- [ ] Theme switcher and dark mode.  
-- [ ] Improve images rendered in blog-post.  
-- [ ] Improve overall layout of site.  
+## Deployment
+Netlify builds and publishes every push to `master`. Build settings live in `netlify.toml`. Netlify also needs `GIT_LFS_ENABLED=true` in its environment variables, or [builds will fail](https://community.netlify.com/t/builds-fail-after-new-commit-to-git-lfs/1362).
 
+## Theme
+The layouts and styles in this repo started as the [Anubis](https://github.com/mitrichius/hugo-theme-anubis) theme, which is now archived. They are maintained here directly, with `Series` links, reading time and image changes added.
 
 ## LICENSE
-Theme is under MIT.  
-Content is Creative Common, except for sourced images which should have their own attribution, or specified.  
-favicon is under creative commons sourced from https://www.iconfinder.com/search/?q=parchment&price=free&style=flat. Only modification done is conversion using https://favicon.io/favicon-converter/  
-
-Repo is maintained on github under Creative Common.  
-Deployed on Netlify, CMS from forestry.io.  
+Site code is under MIT. Anubis's original licence is kept in `LICENSE-anubis`.
+Content is Creative Common, except for sourced images which should have their own attribution, or specified.
+favicon is under creative commons sourced from https://www.iconfinder.com/search/?q=parchment&price=free&style=flat. Only modification done is conversion using https://favicon.io/favicon-converter/
