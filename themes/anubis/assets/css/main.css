@@ -564,6 +564,13 @@ article header h1 a {
     margin-right: 1em;
 }
 
+.post-series {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
 .post-tags {
     display: inline;
     list-style-type: none;
@@ -589,10 +596,17 @@ article header h1 a {
 }
 
 article img {
-    max-width: 70%;
+    max-width: 100%;
+    height: auto;
     display: block;
-    /* height: auto; */
     margin: 0 auto .5em;
+    border-radius: 4px;
+}
+
+@media (min-width: 48em) {
+    article img {
+        max-width: 85%;
+    }
 }
 
 article figcaption {

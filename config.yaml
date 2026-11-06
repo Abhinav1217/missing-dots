@@ -24,7 +24,9 @@ markup:
   highlight:
     style: monokai
 params:
-  style: light
+  style: auto
+  readMore: true
+  description: A simple blog on history, food, culture, and some forgotten stories.
   author: Sapna Rani Kulshreshtha
   pseudo: Sapna Rani
   tagline: A simple blog on history, food, culture, and some forgotten stories.
@@ -36,32 +38,32 @@ menu:
       name: About
       title: About
       url: "/about/"
-      weight: 0
+      weight: 6
     - identifier: author
       name: Author
       title: Author
       url: "/authors/sapna-rani-kulshreshtha/"
-      weight: 0
+      weight: 5
     - identifier: posts
       name: Posts
       title: Posts
       url: "/post/"
-      weight: 0
+      weight: 1
     - identifier: tags
       name: Tags
       title: Tags
       url: "/tags/"
-      weight: 0
+      weight: 4
     - identifier: categories
       name: Categories
       title: Categories
       url: "/categories/"
-      weight: 0
+      weight: 3
     - identifier: series
       name: Series
       title: Series
       url: "/series/"
-      weight: 0
+      weight: 2
 copyright: Copyright &copy; 2020 - 2026 Sapna Rani Kulshreshtha
 canonifyurls: true
 enableRobotsTXT: true

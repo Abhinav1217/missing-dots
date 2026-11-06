@@ -10,6 +10,7 @@
             <a class="u-url" href="{{ .RelPermalink }}"><time datetime="{{ .Params.date.Format $machineDateFormat }}">
                 {{- .Params.date.Format $dateFormat -}}
             </time></a>
+            {{ with .Params.timeToRead }}&middot; {{ . }} min read{{ end }}
             {{ if ne .Params.date .Params.lastMod -}}
                 [{{ i18n "lastMod" }} <time datetime="{{ .Params.lastMod.Format $machineDateFormat }}">
                     {{- .Params.lastMod.Format $dateFormat -}}
@@ -28,6 +29,14 @@
                 {{ range $cat_name := .Params.categories }}
                     {{ $cat := ($.Site.GetPage (printf "/categories/%s" $cat_name | urlize )) }}
                     <li><a href="{{ $cat.Permalink }}">{{ $cat.Title | default $cat_name }}</a></li>
+                {{ end }}
+            </ul>
+        {{ end }}
+        {{ if .Params.series }}
+            <ul class="post-series">
+                {{ range $series_name := .Params.series }}
+                    {{ $series := ($.Site.GetPage (printf "/series/%s" $series_name | urlize )) }}
+                    <li>Series: <a href="{{ $series.Permalink }}">{{ $series.Title | default $series_name }}</a></li>
                 {{ end }}
             </ul>
         {{ end }}
